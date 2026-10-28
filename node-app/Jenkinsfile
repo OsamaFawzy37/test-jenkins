@@ -1,0 +1,2 @@
+@Library('voda-ci') _
+vodaPipeline()
